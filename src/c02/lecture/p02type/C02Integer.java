@@ -9,6 +9,6 @@ public class C02Integer {
         System.out.println(a);
         System.out.println(b);
 
-
+        // 내일은 byte, short 배울 예정
     }
 }
